@@ -1,5 +1,8 @@
+submission*.csv
 test-jpg
+test-tif
 train-jpg
+train-tif
 train.csv
 
 # Byte-compiled / optimized / DLL files
